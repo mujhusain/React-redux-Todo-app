@@ -9,7 +9,7 @@ Build Todo app by using React vite and Redux. also have provided backend sever f
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 
-  ## App Perview:
+  ## App View:
 <p align="center">
 <img src="/App-preview.png"/>
 
